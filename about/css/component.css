@@ -92,7 +92,7 @@ cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
 	width: 0;
 	position: absolute;
 	pointer-events: none;
-	border-right-color: #33A6B8;
+	border-right-color: #E3E5E2;
 	border-width: 10px;
 	top: 10px;
 }

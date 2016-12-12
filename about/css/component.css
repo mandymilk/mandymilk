@@ -1,13 +1,13 @@
 @font-face {
-	font-family: 'ecoico';
-	src:url('../fonts/timelineicons/ecoico.eot');
-	src:url('../fonts/timelineicons/ecoico.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/timelineicons/ecoico.woff') format('woff'),
-		url('../fonts/timelineicons/ecoico.ttf') format('truetype'),
-		url('../fonts/timelineicons/ecoico.svg#ecoico') format('svg');
+	font-family: 'iconfont';
+	src:url('../fonts/timelineicons/iconfont.eot');
+	src:url('../fonts/timelineicons/iconfont.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/timelineicons/iconfont.woff') format('woff'),
+		url('../fonts/timelineicons/iconfont.ttf') format('truetype'),
+		url('../fonts/timelineicons/iconfont.svg#iconfont') format('svg');
 	font-weight: normal;
 	font-style: normal;
-} /* Made with http://icomoon.io/ */
+} /* Made with cbp_tmicon */
 
 .cbp_tmtimeline {
 	margin: 30px 0 0 0;
@@ -53,7 +53,7 @@
 
 .cbp_tmtimeline > li .cbp_tmtime span:last-child {
 	font-size: 2.2em;
-	color: #33A6B8;
+	color: #E3E5E2;
 }
 
 cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child { 
@@ -105,7 +105,7 @@ cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
 .cbp_tmtimeline > li .cbp_tmicon {
 	width: 40px;
 	height: 40px;
-	font-family: 'ecoico';
+	font-family: 'iconfont';
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -125,21 +125,18 @@ cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
 	margin: 0 0 0 -25px;
 }
 
-.cbp_tmicon-phone:before {
-	content: "\e000";
+.cbp_tmicon-alibaba:before {
+	content: "\e714";
 }
 
-.cbp_tmicon-screen:before {
-	content: "\e001";
+.cbp_tmicon-university:before {
+	content: "\e7df";
 }
 
-.cbp_tmicon-mail:before {
-	content: "\e002";
+.cbp_tmicon-skill:before {
+	content: "\e622";
 }
 
-.cbp_tmicon-earth:before {
-	content: "\e003";
-}
 
 /* Example Media Queries */
 @media screen and (max-width: 65.375em) {

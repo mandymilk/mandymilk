@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Milk House</title>
+    <description>Product Sense Makes Life Artistic</description>
+    <link>http://127.0.0.1/</link>
+    <atom:link href="http://127.0.0.1/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 12 Dec 2016 21:39:59 +0800</pubDate>
+    <lastBuildDate>Mon, 12 Dec 2016 21:39:59 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>舆情监控，数据预测才是共同愿景</title>
+        <description>&lt;p&gt;#舆情监控，数据预测才是共同愿景#&lt;/p&gt;
+
+&lt;p&gt;真正的舆情监控系统应该做成什么模样? 做舆情监控的公司或团队会是什么样？&lt;/p&gt;
+
+&lt;p&gt;一家把舆情监控做到极致的公司，可以没有市场、品牌、营销、运营、甚至没有产品。&lt;/p&gt;
+
+&lt;p&gt;公司一个比较喜欢的PD一直喜欢说的一句话，&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“你用什么打动你的Partener和你一起做一件事?” —— 是共同的愿景&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这句话看起来比较虚，但在舆情监控这个领域却是尤其重要。&lt;/p&gt;
+
+&lt;p&gt;在真正想了解舆情监控系统应该做成什么样，目前已经实现的极致程度到底是什么样？建议先看看这家Magic Company的&lt;a href=&quot;https://www.palantir.com/&quot;&gt;主页&lt;/a&gt;。这个网站没有中文主页，如果中文不够好，至少应该先去知乎阅读&lt;a href=&quot;https://zhuanlan.zhihu.com/p/20576142&quot;&gt;最神秘的大数据公司Palantir（一）：教父级的创始人&lt;/a&gt; 和&lt;a href=&quot;https://zhuanlan.zhihu.com/p/20577369&quot;&gt;最神秘的大数据公司Palantir（二）：魔幻之旅&lt;/a&gt; 这两篇专栏文章。&lt;/p&gt;
+
+&lt;p&gt;当然Palantir完全不只是简单的舆情监控。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our Phoenix server acts as a data warehousing system to hold large structured datasets like log files, network traffic flows, and transactional data. Our Raptor federated search server holds large collections of unstructured text data like documents, emails, and cables.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;官网的介绍显示了那个神奇的凤凰服务器就像一个数据仓库，拥有无限量的结构化数据，比如登录文件，网络流量和交易数据等。而猛禽搜索服务器则拥有大量的非结构化数据，各种文档，邮件和电报（这个…）&lt;/p&gt;
+
+&lt;p&gt;总而言之，它就是有大量结构化的数据和非结构化的数据就对了。&lt;/p&gt;
+
+&lt;p&gt;回到最初的回答上，Palantir非常强调工程师文化，它没有各种复杂的岗位设置，130个工程师，That’s all.&lt;/p&gt;
+
+&lt;p&gt;那么Palantir到底在做什么？尽管这个解释是Kevin Simler多年前做的一个阐述，但这也可以大概地说明Palantir到底在做什么。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Data modeling, data summarization, and data visualization are the core disciplines for approaching large data sets. Human-driven queries, rapid iteration, and collaboration are multipliers, taking the power unlocked by the core disciplines to the next level. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;当然Palantir不是一家舆情监控公司，而每一家舆情监控公司当然也不必要把销售、营销、运营都开除。&lt;/p&gt;
+
+&lt;p&gt;但是可以明确的一点就是，舆情监控产品的愿景一定不只是一个事后分析的工具。它首先要能做到的是帮助快速反映，然后要能做到的帮助分析决策，然后，它一定有一个愿景是事前预测。当然这个功能性愿景背后的愿景是什么？&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Making the world a better place, every day&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这个这么虚的愿景，当然不是建筑于星空之上的。Palantir的所有商业化应用，企业用户给它带来的100亿美金的估值，我们也完全没必要用一个高大上的愿景忽视它。&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 10 Sep 2016 00:00:00 +0800</pubDate>
+        <link>http://127.0.0.1/2016/09/10/mediamine/</link>
+        <guid isPermaLink="true">http://127.0.0.1/2016/09/10/mediamine/</guid>
+        
+        <category>产品</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>生活中的产品思维--令人困惑的水塞</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;生活中的产品思维–令人困惑的水塞&lt;/h1&gt;
+&lt;p&gt;水塞，指的是台盆（洗手池或者洗脸池）里用来堵水的塞子。基本上，在每个家庭，或者出去旅游住的每个酒店里都会有这个东西。一般在家里，会有两种水塞，一种是在厨房水槽里的水漏，用来过滤一些厨余杂物，还有一种就是洗脸池里用的纯水塞。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;按压式水塞–干净，总需多一步&lt;/h2&gt;
+&lt;p&gt;早期的洗脸池水塞多是按压式的，不管是按压式弹出还是按压式侧翻，都是需要用户在装了满满一盆的水后用手去直接按压水塞本身。
+当年我还在读高中的时候，家里有一个装满用来洗脸的洗脸池，然后每次放满水洗完脸后，总是要把手放进满满一盆的洗面奶泡沫里按压水塞才能把脏水放净。
+后来家里的洗脸池变成了洗碗池，这就更恐怖了，总是要把手伸进满满一碰的洗洁精里去放掉脏水。
+现在想来，按压式的水塞使用起来绝对是一种令人感到恶心的方式。
+## 链条式水塞–带条链子也变不了土豪
+除了按压式水塞，还在亲戚朋友家见过带条链子的水塞，链子通常绑在水龙头上或者洗脸池旁边，这倒是 极大地避免了要把手伸进满满的脏水里的尴尬。
+然而这样的链子依然有三个问题，一则是，在不需要使用水塞的时候，水塞必须被拔出来，不管是放在池子里还是台面上，都显得奇怪；二则是这样的附加设计必然使得整个脸盆的设计非常得丑，而且基本是不可避免得丑，不管整体的设计有多么用心；三则是这样的链子易断，不知是当年使用的材料的问题还是什么原因，几乎在每一个我见过有这种链子式水塞的朋友家，链子都因为断了而成为摆色。一些中低端的酒店就更加如此了。链子式的水塞一旦链子断了就和按压式没什么区别了。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;水龙头上长出的分支–在酒店里对角线懵逼&lt;/h2&gt;
+&lt;p&gt;前段时间带妈妈泰国玩，住在假日酒店。我妈是旅游中绝不把脏衣服带回家的主，所以外套干洗之后，贴身衣物习惯在酒店自己洗过。当它在满满一堆泡沫水里洗完衣服后，准备放水时，她就开始呼叫我了。她发现水塞没有链条，而且不管怎么按压水塞本身，水塞都没有反应。
+我对着整个洗手池研究了半天，也是一脸迷茫。我在尝试按压水塞的时候意识到应该不是水塞坏了，而是应该有个没发现的控制器，就像传统的链子一样。我用手在洗手台台面上摸索了一圈，然后碰到一根小铁杆。而这种设计大约类似下图。
+&lt;img src=&quot;http://ww1.sinaimg.cn/large/65e4f1e6gw1f7bvvqax3gj206e06edfs.jpg&quot; alt=&quot;post_3_2&quot; /&gt;
+&lt;img src=&quot;http://ww1.sinaimg.cn/large/65e4f1e6gw1f7bvwxdn4hj208a08gzk9.jpg&quot; alt=&quot;post_3_3&quot; /&gt;
+重点是因为当时酒店的设计，水龙头是侧面安置的，所以从任何一个角度都不能看到这跟小铁杆的存在，当然，除非你之前见过这个设计或者像我一样傻傻地摸一圈。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;长铁杆任性地躺在柜子里–3个室友的无奈&lt;/h2&gt;
+&lt;p&gt;今年租房时和三个室友一起租了套间。第一天晚上回家，准备去洗个手吃点东西，发现洗手池里满满一盆水。看看家里沙发上横躺竖卧的三个室友，我默默问了一句，为什么不把水放掉啊。然后，就看到三个室友无奈而又忧伤的表情，说，房东这个池子好像是坏的，放不了水了。在泰国的经历提醒了我，我说道”应该不是坏了，是有个小铁杆你们没看见吧。”
+然而，经验有时候也并没有什么用。不管我怎么摸索，都没有发现任何一根小铁杆的踪影。
+基于房东租给我们的前一天他自己家人还在住，且这样豪华装修的自住房不在我们入住的第一天就坏了洗手池的可能性非常小的认知下，我猜是不是控制器隐藏在某个角落。然而台面是干净和空无一物的。
+我默默拉开了洗手池下的台柜门，看到一堆水管，和一根超级长的铁杆，我一按，杠杠作用下，水塞抬起了。听到放水声的室友跑过来一脸惊喜加震惊。
+看到这个神奇的设计，庆幸这只是在家里，如果是在酒店，每年前台都接到多少个电话报修洗手池啊。
+这么些年了，水塞终于做倒了让我们不用去一盆脏水里按啊按，却又玩起了捉迷藏。&lt;/p&gt;
+
+&lt;p&gt;生活已经如此艰难，然而水塞都还要为难我们。
+按压式的水塞–可用性高，但目标实现程度非常低。
+链子式水塞–审美负分，耐用性负分。
+台面铁杆式–安装者必须让它可见。
+里柜长杆式–台面极简，只适合家庭场景使用。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;重要的是，当发现一个搞不定的玩意时，一定要相信有些糟糕的产品设计把某个重要的功能控制隐藏到某些不可能的角落了。&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 27 Aug 2016 00:00:00 +0800</pubDate>
+        <link>http://127.0.0.1/2016/08/27/watervalve/</link>
+        <guid isPermaLink="true">http://127.0.0.1/2016/08/27/watervalve/</guid>
+        
+        <category>产品</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Peer Pressure VS Culture Pressure</title>
+        <description>&lt;h1 id=&quot;peer-pressure-vs-culture-pressure&quot;&gt;Peer Pressure VS Culture Pressure&lt;/h1&gt;
+&lt;p&gt;Peer Pressure is not a kind of culture/society pressure. It exists in every culture, every society. However, cultural pressure doesn’t.&lt;/p&gt;
+
+&lt;p&gt;Last week, I talked with one of my colleagues about her recent pressure of getting married. Actually it’s her anxiety of finding a boyfriend. She is the same age with me. We were born in 1990, which has the largest newborn population in China. She thought she was facing a lot of pressure from her friends and colleagues. Because most of them have got married. It made me think that whether it’s because most of my friends haven’t got married which made me avoid being so nerve-wracking.&lt;/p&gt;
+
+&lt;p&gt;In fact, although I am still feeling OK with the marriage thing, I do feel a lot of pressure when it comes to the career. Many of my friends works in the big internet company. When we talk about the life in Alibaba or Tencent or Baidu, the pressure naturally comes to being. I know we are not focused on who is better instead of wishing we each other can be a better person in every aspect to make the friendship better.&lt;/p&gt;
+
+&lt;p&gt;When I was first thinking about these issues. I ascribed it to the peer pressure. When I had a morning talk with my oral English teacher, I realized these were not merely peer pressure or to some extent they cannot be defined as peer pressure. The culture pressure actually needs to account for the feelings or pressure.&lt;/p&gt;
+
+&lt;p&gt;For some people in other countries, the girls or boys born in 1990 usually don’t feel so eager to get married. Because parents or society didn’t think you are not so good so that you cannot find a good girl or boy. The society holds a different opinion towards marriage. 
+As a matter of fact, the first time I felt some pressure about the marriage thing was when I graduated from the graduate school and went back hometown to visit my high school teacher. He asked me in a very strange voice, ‘Why don’t you find a boyfriend to get married?’ He was the big supporter for me to go to the graduate school and always encouraged me to go abroad to study. Still he has the opinion that girls should get married before 25-year-old. You see he is not old-fashioned or some stubborn old man. He is just 35 and he receives good high education. It has nothing to do with education or something like that, it’s just the concept the whole society holds.&lt;/p&gt;
+
+&lt;p&gt;It is the similar reason for the career pressure maybe. We have very narrow insight of success. So we defined ‘better’ in a narrow way. I knew some friends who chose to be independent photographer, freelancer and other jobs that cannot bring so much money or fame. I admire them but I still feel the pressure to be a better job market creature.&lt;/p&gt;
+
+&lt;p&gt;When we talk about peer pressure, which actually exist in every culture, it doesn’t have a big difference in different country or culture. And most of the time it exists among the teenagers. The scene often becomes that ‘ if you don’t smoke, you are not cool’,’if you don’t have sex in the senior high school, you are not cool’, ‘if you don’t  go hooky, you are not cool’.&lt;/p&gt;
+
+&lt;p&gt;Maybe the similarity between peer pressure and culture pressure is that both are unavoidable. The thing we can do is to say no to the ‘false’ cool but live in a real cool way to respect the individuality of ourselves.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 14 Aug 2016 00:00:00 +0800</pubDate>
+        <link>http://127.0.0.1/2016/08/14/peerpressure/</link>
+        <guid isPermaLink="true">http://127.0.0.1/2016/08/14/peerpressure/</guid>
+        
+        <category>语言</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>从何说起</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;从何说起&lt;/h1&gt;
+&lt;p&gt;拥有一个有自己域名的页面，大概是高中就有的想法。不记得是在哪个网站填写个人介绍的时候，在个人域名那一栏发现自己只能填QQ空间的地址的时候，觉得有一点点沮丧。然而从高二那年开始，我的人生轨迹就被划向了文科，所以好像那一点沮丧并没有带来什么改变。到今年，才意识到，原来不用去写复杂的代码，不用重新去学习大学计算机课程，其实也可以拥有自己的一点小天地。也是到最近才意识到，想到就去做，就去尝试的强执行力其实是这些年自己一直缺乏的。幸好，现在意识到了，幸好，还不晚。&lt;/p&gt;
+
+&lt;h2 id=&quot;make-a-difference&quot;&gt;Make a difference&lt;/h2&gt;
+&lt;p&gt;从读书到工作，这些年，我一直在问自己一个问题，我到底想做什么？在这些年的成长过程中，我逐渐明晰的是我一定不要做什么。不管是职业发展还是人生导向。然而，在剩下的选项中，我到底希望我自己做什么呢？这个答案，迄今都不明朗。但是make a difference，大概是没错的。我不觉得这个词组应该翻译成改变世界这么宏大的一个主题，也不应该是翻译成做出改变，这么一个每个普通的日子都发生的日常的行为。让自己的生命与其他的生命有一点差异，自己生命中的精力能变成这个世界这本宏大的书里一个小逗点的一部分。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;热爱且合适&lt;/h3&gt;
+&lt;p&gt;最开始读研的时候，我是抱着一丝做学问的心思去的，没有选新闻学而是学传播学，也是看中它有更多理论探讨的空间和多学科结合的可能而不是一个纯实践性学问。但是后来，发现研究生大概就是我做学术的尽头了。在学术的世界里，长时间沉浸在不问世事的状态里是必须的。我尽管欣赏那种状态，而我也充分意识到自己能完全闭关研究一个问题的时间大概并不超过3个月。拥抱这个sucks但依旧丰富的世界也是我渴望的状态。&lt;/p&gt;
+
+&lt;p&gt;工作一年半，在巨无霸似的大公司里，神奇地经历了公关、品牌、产品各个岗位状态，神奇地必须像在创业公司里一样野蛮生长。而在这波折的历程中，虽然我能选择的余地不多，但最终我还是对公关say no,对品牌say no，对产品say yes.在时而需要闭关好几天就为理清产品链路流程，时而一天6个会，就为让产品落地业务的过程中，激情才喷薄而出。在每次的全身心投入中，那些复杂的职场政治环境，那些奇怪的不可理解的斗争，才完全干涉不到我，就像自己有了护身盾。至少我发现，我想make a difference的人生追求中，好像打开了一个切口，也许可以切入。这大概就是热爱。&lt;/p&gt;
+
+&lt;p&gt;然而要如何去定义合适。合适这个词大多是需要别人来检验的。不错的KPI，不错的市场价格？这些一定只是一部分。省视自身，最先判断是否合适的自己。是不是愿意用最大的热情去了解用户？是不是努力在成为一个兼具科学素养和人文素养的职场人？是不是随时在思考自己的逻辑链路？甚至细化到会不会全集团范围挖地三尺找能参考适合野蛮生长学习的PRD文档？是不是能好几个周末坐在家里研究交互设计心理学、设计原理？也许合适的标准有很多，但是让自己满足一个全栈式PM的基本要求的努力至少说服了我自己，我是合适的。
+&lt;strong&gt;人生难得有幸找到自己坚信热爱且合适的事，那不如就坚持下去好了。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;人无癖，不可与交&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;人无癖，不可与交，以其无深情也；人无疵，不可与交，以其无真气也。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;初中时读到这句诗，便心有戚戚焉。那时大概只是因为自己尤其喜欢F1，而那个年龄的女生大多不会爱这样的运动，自己初读大约有些带入自己当时幼稚的感情。然而这么多年过去，却发现真情、真气真正成为自己交友的准则了。&lt;/p&gt;
+
+&lt;p&gt;会有这个页面的产生，最要感谢莫过是玄恒。他抱着我几乎不敢相信的耐心在教我这么一个文科生怎么认识这些代码，怎么查看CSS样式，虽然迄今，我也是一知半解。然而我们从认识到现在，也只吃过一顿饭，见面聊的机会也并不多。然而当初我觉得这样一个人，我有很大热情希望成为他的朋友，是因为他博客上简单的8个字的自我介绍，简单、执着、勤奋、疯狂。这样8个字大约是我心中真情、真气的另一个角度的诠释吧。&lt;/p&gt;
+
+&lt;p&gt;前两天，和室友聊天，说到为什么他从上海来到杭州。除了来这个大公司是职业生涯的一个机会以外，他提到暨大的一个学长，黄燕东，室友和我说，他们有很多人是因为他而萌生了来杭州的意愿。室友对他的评价只有简单的两句话，一是他是用生命在做自己的事业，二是他为人谦谦君子，亲和有礼。我因他是学长，尝试着加了他微信，短短几句寒暄言语，足可见室友对他的评价大概是中肯的。这是另一种程度的真情、真气。这个行业很大，也很小，BAT的朋友之间，只用知道一个名字，大概不出三天就会知道这个人在业内、在同事旧属之间的评价如何。很多人因为他来杭州，尽管不一定追随他，但他的正向影响力已经为他及这个公司带来太多的附加财富。而这绝不是用年薪多少万能衡量的。&lt;/p&gt;
+
+&lt;p&gt;大学毕业那年，感谢老师四年培养呵护、至真至诚地交心。老师回答我说，不用谢我，我和你，同声相应，同气相求。这是迄今为止，我认为自己收到的最高评价，远不是那些证书、奖项可及。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;只为成文&lt;/h2&gt;
+&lt;p&gt;持续写文章是极难的事。不管应用型的技术论文、经验分享还是看似完全可散漫而作的散文随笔。对自己思考的逻辑梳理和总结是把灵感和感悟理性化的过程，只有在成文的过程中才会发现自己的思考有多少漏洞，有多少bug.运动和阅读是最好的治愈，让身体和心灵都持续保有输入，而保持平静的过程。而成文的过程，则是保持有效且个性化非流水线似地输出和自省的过程。所以不给这个页面定明确的主题，只希望自己能坚持成文。大概更多会关注产品设计和运营、语言的习得和新闻传播的琐事。&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 Aug 2016 00:00:00 +0800</pubDate>
+        <link>http://127.0.0.1/2016/08/10/Howtosay/</link>
+        <guid isPermaLink="true">http://127.0.0.1/2016/08/10/Howtosay/</guid>
+        
+        <category>产品</category>
+        
+        <category>语言</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

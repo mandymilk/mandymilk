@@ -23,7 +23,7 @@
 	top: 0;
 	bottom: 0;
 	width: 10px;
-	background: #81c7d4;
+	background: #E3E5E2;
 	left: 20%;
 	margin-left: -10px;
 }
@@ -116,9 +116,9 @@ cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
 	-webkit-font-smoothing: antialiased;
 	position: absolute;
 	color: #fff;
-	background: #81c7d4;
+	background: #bcc1ba;
 	border-radius: 50%;
-	box-shadow: 0 0 0 8px #a5dee4;
+	box-shadow: 0 0 0 8px #d6d9d5;
 	text-align: center;
 	left: 20%;
 	top: 0;

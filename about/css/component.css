@@ -111,7 +111,7 @@ cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
-	font-size: 20px;
+	font-size: 30px;
 	line-height: 40px;
 	-webkit-font-smoothing: antialiased;
 	position: absolute;
@@ -127,6 +127,7 @@ cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
 
 .cbp_tmicon-alibaba:before {
 	content: "\e714";
+	font-size: 40px;
 }
 
 .cbp_tmicon-university:before {

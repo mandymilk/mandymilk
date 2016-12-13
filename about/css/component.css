@@ -123,7 +123,7 @@ cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
-	font-size: 55px;
+	font-size: 35px;
 	line-height: 55px;
 	-webkit-font-smoothing: antialiased;
 	position: absolute;
@@ -149,7 +149,7 @@ cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
 
 .cbp_tmicon-skill:before {
 	content: "\e622";
-	font-size: 40px;
+	font-size: 35px;
 }
 .cbp_tmicon-weixin:before {
 	content: "\e63b";

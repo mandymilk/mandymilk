@@ -64,6 +64,9 @@ hr.small {
     width: 500px;
   }
 }
+.post-container {
+	float:left;
+}
 .post-container a {
   color: #337ab7;
 }

@@ -6,7 +6,7 @@ layout: default
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
-            <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 ">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
                 <div class="site-heading">
                     <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
                     <hr class="small">
@@ -20,9 +20,17 @@ layout: default
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
-		<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 post-container">
-			{{ content }}
-		</div>
+        <div class="col-lg-8 col-xs-12">
+            {{ content }}
+        </div>
+        <div class="col-md-4 col-lg-4 visible-md visible-lg" style="padding-left:20px; padding-right: : 20px; padding-top: 20px">
+            <iframe id="weibo" width="450" height="1000" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=1000&fansRow=2&ptype=1&speed=0&skin=4&isTitle=0&noborder=0&isWeibo=1&isFans=0&uid=1797166637&verifier=4cfd7a1f&dpc=1"></iframe>
+        </div>
+        <script type="text/javascript" language="javascript">
+            var frm=document.getElementById("weibo");
+            frm.style.height = "1000px";
+            frm.style.width = (document.body.clientWidth * 0.33- 40)+"px";
+        </script>
 	</div>
 </div>
 
